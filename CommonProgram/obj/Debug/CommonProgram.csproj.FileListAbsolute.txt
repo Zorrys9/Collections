@@ -1,0 +1,10 @@
+C:\Users\Марина\source\repos\Collection\CommonProgram\bin\Debug\CommonProgram.exe.config
+C:\Users\Марина\source\repos\Collection\CommonProgram\bin\Debug\CommonProgram.exe
+C:\Users\Марина\source\repos\Collection\CommonProgram\bin\Debug\CommonProgram.pdb
+C:\Users\Марина\source\repos\Collection\CommonProgram\bin\Debug\Logic.dll
+C:\Users\Марина\source\repos\Collection\CommonProgram\bin\Debug\Logic.pdb
+C:\Users\Марина\source\repos\Collection\CommonProgram\obj\Debug\CommonProgram.csprojAssemblyReference.cache
+C:\Users\Марина\source\repos\Collection\CommonProgram\obj\Debug\CommonProgram.csproj.CoreCompileInputs.cache
+C:\Users\Марина\source\repos\Collection\CommonProgram\obj\Debug\CommonProgram.csproj.CopyComplete
+C:\Users\Марина\source\repos\Collection\CommonProgram\obj\Debug\CommonProgram.exe
+C:\Users\Марина\source\repos\Collection\CommonProgram\obj\Debug\CommonProgram.pdb
